@@ -15,9 +15,9 @@ Some generalities about the script.
 
 <B>To-do</B>
 <UL> L33t speaking (create my own rules)
-<UL> Combinatorics using each word and a fixed structure (lowerCase, UpperCase, FirstLetterUpperCase, etc.)
-<UL> Case for selecting L33t or combinatorics as an extended function
-<UL> "ñ" character cannot be removed (if we considere spanish words)
+<IL> Combinatorics using each word and a fixed structure (lowerCase, UpperCase, FirstLetterUpperCase, etc.)
+<IL> Case for selecting L33t or combinatorics as an extended function
+<IL> "ñ" character cannot be removed (if we considere spanish words)
 </UL>
 
 
