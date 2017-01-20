@@ -1,5 +1,5 @@
 # cracking-web-crawler
-Web crawler and wordlist generator for hash cracking
+<B>Web crawler and wordlist generator for hash cracking</B>
 
 
 The bash web crawler has been created in order to better perform hash/password cracking attacks. This crawler takes an URL as an imput and generates a wordlist with all the words contained in the given site. This wordlist is then feed in well known cracking tools such us hashcat or john the ripper. 
@@ -11,6 +11,13 @@ Some generalities about the script.
 <LI> Removes special characters such us "," "." and ";"
 <LI> Replaces stressed letters with their corresponding non-stressed letters
 <LI> Only lists unique words, removing the duplicated
+</UL>
+
+<B>To-do</B>
+<UL> L33t speaking (create my own rules)
+<UL> Combinatorics using each word and a fixed structure (lowerCase, UpperCase, FirstLetterUpperCase, etc.)
+<UL> Case for selecting L33t or combinatorics as an extended function
+<UL> "ñ" character cannot be removed (if we considere spanish words)
 </UL>
 
 
