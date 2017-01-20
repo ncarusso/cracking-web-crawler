@@ -1,5 +1,12 @@
 #!/bin/bash
 
+###############################################
+# Author: Nicolas Carusso                     #
+# Author's email: ncarusso at gmail dot com   #
+# Date: Jan/2017                              #
+###############################################
+
+
 echo "Enter the URL that you want to crawl: "
 read url
 echo "Enter the name of the wordlist file"
