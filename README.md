@@ -1,5 +1,5 @@
 # cracking-web-crawler
-Hash cracking web crawler for wordlist generation
+Web crawler and wordlist generation for hash cracking 
 
 
 The bash web crawler has been created in order to better perform hash/password cracking attacks. This crawler takes an URL as an imput and generates a wordlist with all the words contained in the given site. This wordlist is then feed in well known cracking tools such us hashcat or john the ripper. 
