@@ -18,7 +18,7 @@ Some generalities about the script.
 <LI> L33t speaking (create my own rules)
 <LI> Combinatorics using each word and a fixed structure (lowerCase, UpperCase, FirstLetterUpperCase, etc.)
 <LI> Case for selecting L33t or combinatorics as an extended function
-<LI> "ñ" character cannot be removed (if we considere spanish words)
+<LI> "ñ" character cannot be removed (if we consider spanish words)
 </UL>
 
 
